@@ -1,4 +1,4 @@
-FROM base
+FROM ubuntu
 
 MAINTAINER tcnksm "https://github.com/tcnksm"
 
